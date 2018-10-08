@@ -1,4 +1,4 @@
-# [Search and Replace](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace)
+## [Search and Replace](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace)
 
 Perform a search and replace on the sentence using the arguments provided and return the new sentence.
 
